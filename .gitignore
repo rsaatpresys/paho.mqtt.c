@@ -3,3 +3,19 @@
 /build.paho/
 *.swp
 /build.paho
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*.suo
+*.vcxproj.user
+/Windows Build/Paho C MQTT APIs.VC.db
+/Windows Build/Paho C MQTT APIs.VC.VC.opendb
