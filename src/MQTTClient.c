@@ -67,7 +67,9 @@
 
 #define URI_TCP "tcp://"
 
-#include "VersionInfo.h"
+//#include "VersionInfo.h"
+#define BUILD_TIMESTAMP "1"
+#define CLIENT_VERSION "1"
 
 
 const char *client_timestamp_eye = "MQTTClientV3_Timestamp " BUILD_TIMESTAMP;
